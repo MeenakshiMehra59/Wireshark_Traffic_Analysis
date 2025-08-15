@@ -6,8 +6,8 @@ The objective of this task is to capture live network packets using Wireshark, i
 ---
 
 ## 🛠 Tools Used
-- **Wireshark** (Version: [Your Version])
-- **Npcap** (Version: [Your Version])
+- **Wireshark** 
+- **Npcap** 
 
 ---
 
